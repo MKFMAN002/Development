@@ -1,0 +1,25 @@
+<div class="carousel slide" id="carouselDemo" data-bs-ride="carousel" data-bs-wrap="true">
+        <div class="carousel-inner">
+            <!-- First Slide -->
+            <div class="carousel-item active" data-bs-interval="2000">
+                <video class="video-fluid w-100" autoplay loop muted>
+                    <source src="video1.mp4" type="video/mp4">
+                </video>
+                <div class="carousel-caption">
+                    <h5>Title 1</h5>
+                    <p>Welcome to our website. We are pleased to assist you.</p>
+                </div>
+            </div>
+
+            <!-- Second Slide -->
+            <div class="carousel-item" data-bs-interval="2000">
+                <video class="video-fluid w-100" autoplay loop muted>
+                    <source src="video2.mp4" type="video/mp4">
+                </video>
+                <div class="carousel-caption">
+                    <h5>Title 2</h5>
+                    <p>Explore more about our services!</p>
+                </div>
+            </div>
+        </div>
+    </div>
